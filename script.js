@@ -30,7 +30,7 @@ function numSubmit(){
     
     numerosAleatorios.push(num)
 
-    if(numerosAleatorios.length===10){
+    if(numerosAleatorios.length===10){''
         alert('Sua array tem 10 elementos e está pronto para funcionar')
         ex1()
     }
